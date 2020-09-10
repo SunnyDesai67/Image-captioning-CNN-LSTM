@@ -13,10 +13,10 @@
 
 <img src = "https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/11/model-python-machine-learning-project.png"/>
 
-• Feature Extractor – The feature extracted from the image has a size of 2048, with a dense layer, we will reduce the dimensions to 256 nodes.
-• Sequence Processor – An embedding layer will handle the textual input, followed by the LSTM layer.
+• Feature Extractor – The feature extracted from the image has a size of 2048, with a dense layer, we will reduce the dimensions to 256 nodes.<br>
+• Sequence Processor – An embedding layer will handle the textual input, followed by the LSTM layer.<br>
 • Decoder – By merging the output from the above two layers, we will process by the dense layer to make the final prediction. The final layer will contain the number of nodes equal to our vocabulary size.
-#
+
 **Results:**
 
 ![Alt text](/Images/gen_7526599338.jpg)
