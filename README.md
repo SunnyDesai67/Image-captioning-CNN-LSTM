@@ -3,8 +3,6 @@
 
 #### Image caption generator hat involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.
 
-<br>
-
 ##### Dataset Used:
 • Flicker8k_Dataset <br>
 • Flickr_8k_text 
